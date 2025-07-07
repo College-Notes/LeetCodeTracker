@@ -54,20 +54,3 @@ LeetCodeTracker/
 ├── index.js          # Entry point
 └── README.md         # Documentation
 ```
-
-## 🔧 Configuration
-
-Update the API URL in `src/services/api.js`:
-
-```javascript
-const BACKEND_API_URL = 'https://your-backend-api.com';
-```
-
-## 🐛 Troubleshooting
-
-1. **Connection Errors**: Check internet and API URL
-2. **Build Issues**: Run `npm install` and clear Metro cache
-
----
-
-**Made with ❤️ for the LeetCode community**
