@@ -38,6 +38,7 @@ A React Native app to track LeetCode progress and display rankings in a leaderbo
    ```bash
    npm start
    npm run android # For Android
+   npm run-android react-native # For Android
    npm run ios     # For iOS
    ```
 
